@@ -21,8 +21,7 @@
 
 ## About Me
 
-Data Science graduate student with experience in data analytics, machine learning, SQL, and business intelligence.  
-Interested in transforming raw data into actionable insights that support operational and strategic decision-making.
+Data Science graduate student with experience in data analytics, machine learning, SQL, and business intelligence. Interested in transforming raw data into actionable insights that support operational and strategic decision-making.
 
 Current interests:
 - Data Analytics
