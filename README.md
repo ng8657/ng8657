@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=220&section=header&text=Natalia%20Gastelo&fontColor=ffffff&fontSize=42" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=220&section=header&text=%20&fontColor=ffffff&fontSize=42" />
 </p>
+
+
+<h1 align="center">Hi, I'm Natalia Gastelo 👋</h1>
 
 <p align="center">
   M.S. in Data Science @ The University of Texas at El Paso <br>
