@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=220&section=header&text=Natalia%20Gastelo&fontColor=ffffff&fontSize=42" />
 </p>
 
-
-
-<h1 align="center">Hi, I'm Natalia Gastelo 👋</h1>
-
 <p align="center">
   M.S. in Data Science @ The University of Texas at El Paso <br>
   B.S. in Biology + Business Minor @ The University of Texas at Austin
@@ -70,12 +66,6 @@ Built classification models to predict customer churn using Python, feature engi
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ng8657&show_icons=true&theme=radical" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ng8657&layout=compact&theme=radical" height="170">
-</p>
-
----
 
 ### 📈 Data Visualization Project
 Performed exploratory data analysis and built visual dashboards to communicate business insights.
