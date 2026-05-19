@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=220&section=header&text=Natalia%20Gastelo&fontColor=ffffff&fontSize=42" />
+</p>
+
+
+
 <h1 align="center">Hi, I'm Natalia Gastelo 👋</h1>
 
 <p align="center">
@@ -61,6 +67,13 @@ Analyzed retail sales data using SQL to identify top-performing categories, cust
 Built classification models to predict customer churn using Python, feature engineering, and model evaluation metrics.
 
 🔗 Repository: [Customer Churn Prediction](https://github.com/ng8657/REPO_NAME_2)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ng8657&show_icons=true&theme=radical" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ng8657&layout=compact&theme=radical" height="170">
+</p>
 
 ---
 
