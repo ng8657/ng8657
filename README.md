@@ -1,23 +1,95 @@
-# Hi, I'm Natalia Gastelo 👋
+<h1 align="center">Hi, I'm Natalia Gastelo 👋</h1>
 
-M.S. Data Science student at The University of Texas at El Paso  
-B.S. Biology with Business Minor from The University of Texas at Austin  
+<p align="center">
+  M.S. in Data Science @ The University of Texas at El Paso <br>
+  B.S. in Biology + Business Minor @ The University of Texas at Austin
+</p>
+
+<p align="center">
+  <a href="https://github.com/ng8657">
+    <img src="https://img.shields.io/badge/GitHub-ng8657-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:YOUR_EMAIL@email.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+---
 
 ## About Me
-I'm interested in data analytics, machine learning, business intelligence, and using data to drive decision-making.
+
+Data Science graduate student with experience in data analytics, machine learning, SQL, and business intelligence.  
+Interested in transforming raw data into actionable insights that support operational and strategic decision-making.
+
+Current interests:
+- Data Analytics
+- Machine Learning
+- Business Intelligence
+- Predictive Modeling
+- Data Visualization
+
+---
 
 ## Technical Skills
-- Python
-- SQL
-- R
-- Machine Learning
-- Data Visualization
-- HTML
+
+### Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+
+### Libraries
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+
+---
 
 ## Featured Projects
-- Customer Churn Prediction
-- Retail Sales SQL Analysis
-- Data Cleaning & Visualization
+
+### 📊 SQL Retail Sales Analysis
+Analyzed retail sales data using SQL to identify top-performing categories, customer behavior trends, and revenue opportunities.
+
+🔗 Repository: [SQL Retail Sales Analysis](https://github.com/ng8657/REPO_NAME_1)
+
+---
+
+### 🤖 Customer Churn Prediction
+Built classification models to predict customer churn using Python, feature engineering, and model evaluation metrics.
+
+🔗 Repository: [Customer Churn Prediction](https://github.com/ng8657/REPO_NAME_2)
+
+---
+
+### 📈 Data Visualization Project
+Performed exploratory data analysis and built visual dashboards to communicate business insights.
+
+🔗 Repository: [Data Visualization Project](https://github.com/ng8657/REPO_NAME_3)
+
+---
+
+## Education
+
+**The University of Texas at El Paso**  
+M.S. Data Science | GPA: 3.9
+
+**The University of Texas at Austin**  
+B.S. Biology, Minor in Business
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ng8657&show_icons=true&theme=default" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ng8657&layout=compact&theme=default" height="170">
+</p>
+
+---
 
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/natalia-gastelo-794782198/
