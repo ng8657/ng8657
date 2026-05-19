@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=220&section=header&text=%20&fontColor=ffffff&fontSize=42" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=220&section=header&text=Natalia%20Gastelo&fontColor=ffffff&fontSize=42" />
 </p>
-
-
 <h1 align="center">Hi, I'm Natalia Gastelo 👋</h1>
 
 <p align="center">
