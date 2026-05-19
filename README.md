@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Natalia Gastelo 👋
 
-<!--
-**ng8657/ng8657** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.S. Data Science student at The University of Texas at El Paso  
+B.S. Biology with Business Minor from The University of Texas at Austin  
 
-Here are some ideas to get you started:
+## About Me
+I'm interested in data analytics, machine learning, business intelligence, and using data to drive decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Python
+- SQL
+- R
+- Machine Learning
+- Data Visualization
+- HTML
+
+## Featured Projects
+- Customer Churn Prediction
+- Retail Sales SQL Analysis
+- Data Cleaning & Visualization
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/natalia-gastelo-794782198/
+- Email: nataliagastelo8@gmail.com
