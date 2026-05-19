@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=220&section=header&text=Natalia%20Gastelo&fontColor=ffffff&fontSize=42" />
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=24&center=true&vCenter=true&width=700&lines=MS+Data+Science+Student;Data+Analytics+%7C+Machine+Learning;Python+%7C+SQL+%7C+R" />
-</p>
 
 </p>
 <h1 align="center">Hi, I'm Natalia Gastelo 👋</h1>
